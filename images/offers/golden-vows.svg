@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="900" viewBox="0 0 1100 900">
+  <rect width="1100" height="900" fill="#070707"/>
+  <defs>
+    <radialGradient id="g" cx="62%" cy="70%" r="55%">
+      <stop offset="0%" stop-color="#6b5016"/>
+      <stop offset="45%" stop-color="#16110a"/>
+      <stop offset="100%" stop-color="#000"/>
+    </radialGradient>
+  </defs>
+  <rect width="1100" height="900" fill="url(#g)"/>
+  <path d="M560 560 V280 a130 130 0 0 1 260 0 V560" fill="none" stroke="#f5c842" stroke-width="3"/>
+  <path d="M610 560 V330 a80 80 0 0 1 160 0 V560" fill="#f5c842" fill-opacity="0.12" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1.5"/>
+  <path d="M500 560h380" stroke="#f5c842" stroke-opacity="0.7" stroke-width="2"/>
+  <g fill="none" stroke="#f5c842" stroke-width="2">
+    <path d="M72 118h78M72 118v78"/><path d="M1028 118h-78M1028 118v78"/>
+    <path d="M72 782h78M72 782v-78"/><path d="M1028 782h-78M1028 782v-78"/>
+  </g>
+  <text x="80" y="820" fill="#f5c842" font-family="Georgia, 'Times New Roman', serif" font-size="40">Golden Vows</text>
+  <text x="80" y="858" fill="#ffffff" fill-opacity="0.72" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3.5">WEDDING &#183; MUNNAR</text>
+</svg>

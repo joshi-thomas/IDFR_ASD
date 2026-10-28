@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="900" viewBox="0 0 1100 900">
+  <rect width="1100" height="900" fill="#070707"/>
+  <defs>
+    <radialGradient id="g" cx="64%" cy="36%" r="58%">
+      <stop offset="0%" stop-color="#5c4314"/>
+      <stop offset="46%" stop-color="#16110a"/>
+      <stop offset="100%" stop-color="#000"/>
+    </radialGradient>
+  </defs>
+  <rect width="1100" height="900" fill="url(#g)"/>
+  <circle cx="690" cy="390" r="210" fill="none" stroke="#f5c842" stroke-opacity="0.85" stroke-width="3"/>
+  <circle cx="690" cy="390" r="150" fill="none" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.5"/>
+  <circle cx="690" cy="390" r="78" fill="#f5c842" fill-opacity="0.16" stroke="#f5c842" stroke-opacity="0.7"/>
+  <circle cx="718" cy="362" r="16" fill="#fff" fill-opacity="0.35"/>
+  <path d="M480 390h70M830 390h70M690 180v70M690 530v70" stroke="#f5c842" stroke-opacity="0.55" stroke-width="1.5"/>
+  <g fill="none" stroke="#f5c842" stroke-width="2">
+    <path d="M72 118h78M72 118v78"/><path d="M1028 118h-78M1028 118v78"/>
+    <path d="M72 782h78M72 782v-78"/><path d="M1028 782h-78M1028 782v-78"/>
+  </g>
+  <text x="80" y="820" fill="#f5c842" font-family="Georgia, 'Times New Roman', serif" font-size="40">Behind the Viewfinder</text>
+  <text x="80" y="858" fill="#ffffff" fill-opacity="0.72" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3.5">PORTRAIT SESSION &#183; KOZHIKODE</text>
+</svg>
